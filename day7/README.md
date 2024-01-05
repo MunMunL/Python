@@ -1,6 +1,6 @@
 # 7 - Hangman
 
-## Concepts Practised
+## Concepts
 * How to break a Complex Problem down into a Flow Chart
 * How to Check the User's Answer
 * Improving the User Experience
