@@ -1,6 +1,6 @@
-# Day 10 - Functions with Outputs
+# 10 - Calculator
 
-## Concepts Practised
+## Concepts
 * Function with Outputs
 * Multiple return values
 * Docstrings
@@ -8,5 +8,4 @@
 * Print vs. Return
 * While Loops, Flags and Recursion
 
-## Calculator
 https://replit.com/@Mun-MunMun/calculator-start
