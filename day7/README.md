@@ -1,4 +1,4 @@
-# Day 7 - Hangman
+# 7 - Hangman
 
 ## Concepts Practised
 * How to break a Complex Problem down into a Flow Chart
@@ -6,5 +6,4 @@
 * Improving the User Experience
 * How to Add ASCII Art and Improve the UI
 
-## Hangman
 https://replit.com/@Mun-MunMun/Day-7-Hangman-5-Start
