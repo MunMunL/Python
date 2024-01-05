@@ -1,4 +1,4 @@
-# Day 3 - Control Flow and Logical Operators
+# 3 - Treasure Island
 
 ## Concepts
 * Control Flow with if / else and Conditional Operators
@@ -7,5 +7,4 @@
 * Multiple If Statements in Succession
 * Logical Operators
 
-## Treasure Island
 https://replit.com/@Mun-MunMun/treasure-island-start
