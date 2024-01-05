@@ -1,4 +1,4 @@
-# Day 1 - Working with Variables in Python to Manage Data
+# 1 - Band Name Generator
 
 ## Concepts
 * Printing to the Console in Python
@@ -7,7 +7,5 @@
 * The Python Input Function
 * Python Variables
 * Variable Naming
-
-## Band Name Generator
 
 https://replit.com/@Mun-MunMun/band-name-generator
