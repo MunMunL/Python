@@ -1,4 +1,4 @@
-# Day 2 - Understanding Data Types and How to Manipulate Strings
+# 2 - Tip Calculator
 
 ## Concepts
 * Python Primitive Data Types
@@ -7,5 +7,4 @@
 * Mathematical Operations in Python
 * Number Manipulation and F String in Python
 
-## Tip Calculator
 https://replit.com/@Mun-MunMun/Muns-bill-split
