@@ -1,17 +1,18 @@
-# 100 Days of Code: The Complete Python Pro Bootcamp
+# The Complete Python Pro Bootcamp
 
-* [Day 1](https://github.com/MunMunL/Python/tree/main/day1): Working with Variables in Python to Manage Data
-* Day 2: Understanding Data Types and How to Manipulate Strings
-* Day 3: Control Flow and Logical Operators
-* Day 4: Randomisation and Python Lists
-* Day 5: Python Loops
-* Day 6: Python Functions & Karel
-* Day 7: Hangman
-* Day 8: Function Parameters & Caesar Cipher
-* Day 9: Dictionaries, Nesting and the Secret Auction
-* Day 10: Functions with Outputs
-* Day 11: The Blackjack Capstone Project
-* Day 12: Scope & Number Guessing Game
+
+* [1 - Band Name Generator](https://github.com/MunMunL/Python/tree/main/day1)
+* [2 - Tip Calculator](https://github.com/MunMunL/Python/tree/main/day2)
+* [3 - Treasure Island](https://github.com/MunMunL/Python/tree/main/day3)
+* [4 - Rock Paper Scissors](https://github.com/MunMunL/Python/tree/main/day4)
+* [5 - Password Generator](https://github.com/MunMunL/Python/tree/main/day5)
+* [6 - Escaping the Maze](https://github.com/MunMunL/Python/tree/main/day6)
+* [7 - Hangman](https://github.com/MunMunL/Python/tree/main/day7)
+* [8 - Caesar Cipher](https://github.com/MunMunL/Python/tree/main/day8)
+* [9 - The Blind Auction Program](https://github.com/MunMunL/Python/tree/main/day9)
+* [10 - Calculator](https://github.com/MunMunL/Python/tree/main/day10)
+* [11 - The Blackjack Capstone Project](https://github.com/MunMunL/Python/tree/main/day11)
+* [12 - The Number Guessing Game](https://github.com/MunMunL/Python/tree/main/day12)
 * Day 13: Debugging: How to Find and Fix Errors in your Code
 * Day 14: Higher Lower Game Project
 * Day 15: Local Development Environment Setup & the Coffee Machine
