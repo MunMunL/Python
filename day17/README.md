@@ -1,5 +1,5 @@
 # 17 - Quiz Project
-[Code](https://github.com/MunMunL/Python/blob/main/day16/main.py)
+[Code](https://github.com/MunMunL/Python/blob/main/day17/main.py)
 
 ## Concepts
 * How to create a Class in Python
