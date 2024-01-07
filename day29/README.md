@@ -7,3 +7,8 @@
 * Saving Data to File
 * Dialog Boxes and Pop-Ups in Tkinter
 * Generate a Password & Copy it to the Clipboard
+* Catching Exceptions: The try catch except finally Pattern
+* Raising Exceptions
+* IndexError Handling
+* KeyError Handling
+* Write, read and update JSON data in the Password Manager
