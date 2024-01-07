@@ -1,4 +1,4 @@
-# 13 - Higher Lower Game
+# 14 - Higher Lower Game
 
 ## Concepts
 * Using Dictionary Data
