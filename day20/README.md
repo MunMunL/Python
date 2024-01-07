@@ -1,4 +1,4 @@
-# 18 - Snake Game Part 1
+# 18 - Snake Game Part 1: Animation & Coordinates
 [Code](https://github.com/MunMunL/Python/blob/main/day20/main.py)
 
 ## Concepts
