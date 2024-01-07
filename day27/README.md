@@ -1,5 +1,5 @@
 # 27 - Miles to KM Converter
-[Code](https://github.com/MunMunL/Python/blob/main/day27/main.py)
+[Code](https://github.com/MunMunL/Python/blob/main/day27/disctance%20calculator.py)
 
 ## Concepts
 * Creating Windows and Labels with Tkinter
