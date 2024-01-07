@@ -13,29 +13,25 @@
 * [10 - Calculator](https://github.com/MunMunL/Python/tree/main/day10)
 * [11 - The Blackjack Capstone Project](https://github.com/MunMunL/Python/tree/main/day11)
 * [12 - The Number Guessing Game](https://github.com/MunMunL/Python/tree/main/day12)
-* Day 13: Debugging: How to Find and Fix Errors in your Code
-* Day 14: Higher Lower Game Project
-* Day 15: Local Development Environment Setup & the Coffee Machine
-* Day 16: Object Oriented Programming (OOP)
-* Day 17: The Quiz Project & The Benefits of OOP
-* Day 18: Turtle & the Graphical User Interface (GUI)
-* Day 19: Instances,  State and Higher Order Functions
-* Day 20: Build the Snake Game Part 1: Animation & Coordinates
-* Day 21: Build the Snake Game Part 2: Inheritance & List Slicing
-* Day 22: Build Pong: The Famous Arcade Game
-* Day 23: The Turtle Crossing Capstone Project
-* Day 24: Files, Directories and Paths
-* Day 25: Working with CSV Date and the Pandas Library
-* Day 26: List Comprehension and the Nato Alphabet
-* Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
-* Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
-* Day 29: Building a Password GUI App with Tkinter
-* Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
-* Day 31: Flash Card App Capstone Project
-* Day 32: Send E-mail (smtplib) & Manager Dates(datetime) - Automated Birthday Wisher
-* Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
-* Day 34: API Practice - Creating a GUI Quiz App
-* Day 35: Keys, Authentication & Environment Variables - Telegra, Rain Notifier
+* [14 - Higher Lower Game Project](https://github.com/MunMunL/Python/tree/main/day14)
+* [15 - Coffee Machine](https://github.com/MunMunL/Python/tree/main/day15)
+* [16 - Coffee Machine (OOP)](https://github.com/MunMunL/Python/tree/main/day16)
+* [17 - The Quiz Project](https://github.com/MunMunL/Python/tree/main/day17)
+* [18 - The Hirst Painting Project](https://github.com/MunMunL/Python/tree/main/day18)
+* [19 - Turtle Race Game](https://github.com/MunMunL/Python/tree/main/day19)
+* [20 - Snake Game](https://github.com/MunMunL/Python/tree/main/day20)
+* [22 - Pong Game](https://github.com/MunMunL/Python/tree/main/day22)
+* [23 - The Turtle Crossing Game](https://github.com/MunMunL/Python/tree/main/day23)
+* [25 - U.S. States Game](https://github.com/MunMunL/Python/tree/main/day25)
+* [26 - Nato Alphabet Project](https://github.com/MunMunL/Python/tree/main/day26)
+* [27 - Miles to KM Converter](https://github.com/MunMunL/Python/tree/main/day27)
+* [28 - Pomodoro Timer](https://github.com/MunMunL/Python/tree/main/day28)
+* [29 - Password Manager](https://github.com/MunMunL/Python/tree/main/day29)
+* [31 - Flash Card App Game](https://github.com/MunMunL/Python/tree/main/day31)
+* [32 - Automated Birthday Wisher](https://github.com/MunMunL/Python/tree/main/day32)
+* [33 - ISS Overhead Notifier](https://github.com/MunMunL/Python/tree/main/day33)
+* [34 - GUI Quiz App](https://github.com/MunMunL/Python/tree/main/day34)
+* [35 - Rain Notifier](https://github.com/MunMunL/Python/tree/main/day35)
 
 
 ## Tools and Technologies Covered
