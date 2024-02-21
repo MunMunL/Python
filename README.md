@@ -32,6 +32,7 @@
 * [33 - ISS Overhead Notifier](https://github.com/MunMunL/Python/tree/main/day33)
 * [34 - GUI Quiz App](https://github.com/MunMunL/Python/tree/main/day34)
 * [35 - Rain Notifier](https://github.com/MunMunL/Python/tree/main/day35)
+* [36 - Morse Code Converter](https://github.com/MunMunL/Python/tree/main/day36)
 
 
 ## Tools and Technologies Covered
